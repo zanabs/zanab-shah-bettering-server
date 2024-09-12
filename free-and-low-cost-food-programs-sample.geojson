@@ -1,0 +1,174 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-123.091066, 49.281483]
+        },
+        "properties": {
+          "program_name": "Union Gospel Mission - Meal Program",
+          "description": "Lunch every day at 11am (tickets at 10:45am). Dinner M-F at 6pm (tickets at 5:45pm), Sat-Sun at 4pm (tickets at 3:45pm). For info call (604) 253-3323.",
+          "program_status": "Open",
+          "organization_name": "Union Gospel Mission",
+          "location_address": "601 E Hastings St, Vancouver, BC",
+          "local_areas": "Strathcona",
+          "provides_meals": "True",
+          "provides_hampers": "False",
+          "delivery_available": "No",
+          "takeout_available": "Yes",
+          "wheelchair_accessible": "Yes",
+          "meal_cost": "Free",
+          "signup_required": "No",
+          "latitude": 49.281483,
+          "longitude": -123.091066,
+          "last_update_date": "2023-08-28T08:16:50-07:00",
+          "languages_spoken": "Mandarin",
+          "SafeSpace_trained": "Yes",
+          "same_day_service": "Yes",
+          "cultural_cuisine_offered": "South Asian"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-123.086769, 49.262154]
+        },
+        "properties": {
+          "program_name": "Mount Pleasant N'hood House - Referral Support",
+          "description": "For information about meals and groceries available, call (604) 879-8208",
+          "program_status": "Open",
+          "organization_name": "Mount Pleasant Neighbourhood House",
+          "location_address": "800 E Broadway, Vancouver, BC",
+          "local_areas": "Mount Pleasant",
+          "provides_meals": "False",
+          "provides_hampers": "False",
+          "delivery_available": "No",
+          "takeout_available": "Unknown",
+          "wheelchair_accessible": "Unknown",
+          "latitude": 49.262154,
+          "longitude": -123.086769,
+          "last_update_date": "2024-05-15T02:54:09-07:00",
+          "languages_spoken": "Hindi",
+          "SafeSpace_trained": "No",
+          "same_day_service": "Yes",
+          "cultural_cuisine_offered": "South-East Asian"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-123.070065, 49.276925]
+        },
+        "properties": {
+          "program_name": "The Kettle Society - Meal Program",
+          "description": "Daily 11:30am-2pm. Required to provide name.",
+          "program_status": "Open",
+          "organization_name": "The Kettle Society",
+          "location_address": "1725 Venables St, Vancouver, BC",
+          "local_areas": "Grandview-Woodland",
+          "provides_meals": "True",
+          "provides_hampers": "False",
+          "delivery_available": "No",
+          "takeout_available": "Yes",
+          "wheelchair_accessible": "Yes",
+          "meal_cost": "Free",
+          "latitude": 49.276925,
+          "longitude": -123.070065,
+          "last_update_date": "2020-12-03T04:44:58-08:00",
+          "languages_spoken": "Swahili",
+          "SafeSpace_trained": "Yes",
+          "same_day_service": "No",
+          "cultural_cuisine_offered": "Caribbean"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-123.134299, 49.207246]
+        },
+        "properties": {
+          "program_name": "Bryn's Neighbourhood Table",
+          "description": "Free, sit-down dinner every Thursday 6-7pm at St. Augustine's Anglican Church. Arrive 30 min prior to enjoy a coffee/tea with others. For info contact (604) 836-7419.",
+          "program_status": "Open",
+          "organization_name": "St. Augustine's Anglican Church",
+          "location_address": "8680 Hudson St, Vancouver, BC",
+          "local_areas": "Marpole",
+          "provides_meals": "True",
+          "provides_hampers": "False",
+          "delivery_available": "No",
+          "takeout_available": "Yes",
+          "wheelchair_accessible": "Yes",
+          "meal_cost": "Free",
+          "latitude": 49.207246,
+          "longitude": -123.134299,
+          "last_update_date": "2024-07-25T02:36:06-07:00",
+          "languages_spoken": "French",
+          "SafeSpace_trained": "No",
+          "same_day_service": "Yes",
+          "cultural_cuisine_offered": "Latin"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-123.092398, 49.281501]
+        },
+        "properties": {
+          "program_name": "YWCA Crabtree Corner - Meal Programs",
+          "description": "Breakfast: Mon-Fri, 8:45-9:45am. Lunch: Mon, Tues, Thurs, Fri: 1-2:30pm. Wed: 12-1:15pm.",
+          "program_status": "Open",
+          "organization_name": "YWCA Metro Vancouver",
+          "program_population_served": "Women and children",
+          "location_address": "533 E Hastings St, Vancouver, BC",
+          "local_areas": "Strathcona",
+          "provides_meals": "True",
+          "provides_hampers": "False",
+          "delivery_available": "No",
+          "takeout_available": "Yes",
+          "wheelchair_accessible": "Yes",
+          "meal_cost": "Free",
+          "latitude": 49.281501,
+          "longitude": -123.092398,
+          "last_update_date": "2022-08-22T04:53:47-07:00",
+          "languages_spoken": "Punjabi",
+          "SafeSpace_trained": "Yes",
+          "same_day_service": "No",
+          "cultural_cuisine_offered": "South-East Asian"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-123.094983, 49.283977]
+        },
+        "properties": {
+          "program_name": "Evelyne Saller Centre - Low Cost Meals",
+          "description": "Breakfast 10am-12pm, Lunch 11am-3pm, Dinner 3-5:50pm. Menu and info at https://vancouver.ca/parks-recreation-culture/evelyne-saller-centre-cafeteria.aspx or (604) 665-3075.",
+          "program_status": "Open",
+          "organization_name": "Evelyne Saller Centre",
+          "location_address": "404 Alexander St, Vancouver, BC",
+          "local_areas": "Strathcona",
+          "provides_meals": "True",
+          "provides_hampers": "False",
+          "delivery_available": "No",
+          "takeout_available": "No",
+          "wheelchair_accessible": "Yes",
+          "meal_cost": "$2.00",
+          "latitude": 49.283977,
+          "longitude": -123.094983,
+          "last_update_date": "2023-07-20T08:25:33-07:00",
+          "languages_spoken": "Spanish",
+          "SafeSpace_trained": "No",
+          "same_day_service": "Yes",
+          "cultural_cuisine_offered": "South Asian"
+        }
+      }
+    ]
+}
