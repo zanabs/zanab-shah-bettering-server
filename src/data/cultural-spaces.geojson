@@ -1,0 +1,261 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "1",
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -123.105108,
+                    49.263974
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "year": "2017",
+                "program_name": "Anza Club (Australia-New Zealand Association)",
+                "website": "http://www.anzaclub.org",
+                "type": "cultural-support",
+                "description": "Performance Space",
+                "address": "3 W 8th Av, Vancouver, BC, V5Y 1M8",
+                "local_area": "Mount Pleasant",
+                "opening_hours": "Tuesday-Sunday: 12 PM - 7 PM",
+                "square_feet": 2885,
+                "number_of_seats": 135,
+                "active_space": "Yes",
+                "geo_point_2d": {
+                    "lon": -123.105108,
+                    "lat": 49.263974
+                }
+            }
+        },
+        {
+            "id": "2",
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -123.1095005,
+                    49.2817199
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "year": "2017",
+                "program_name": "Architectural Institute of BC Gallery",
+                "website": "www.aibc.ca",
+                "type": "cultural-support",
+                "description": "Museum/Gallery",
+                "address": "440 Cambie St, Vancouver, BC, V6B 2N5",
+                "local_area": "Downtown",
+               "opening_hours": "Tuesday-Sunday: 12 PM - 7 PM",
+                "square_feet": 250,
+                "number_of_seats": null,
+                "active_space": "Yes",
+                "geo_point_2d": {
+                    "lon": -123.1095005,
+                    "lat": 49.2817199
+                }
+            }
+        },
+        {
+            "id": "3",
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -123.1382118,
+                    49.261346
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "year": "2017",
+                "program_name": "Arts Club Theatre - Stanley Industrial Alliance Stage",
+                "website": "http://www.artsclub.com",
+                "type": "cultural-support",
+                "description": "Theatre",
+                "address": "2750 Granville St, Vancouver, BC, V6H 3J3",
+                "local_area": "Fairview",
+                "opening_hours": "Tuesday-Sunday: 12 PM - 7 PM",
+                "square_feet": 16500,
+                "number_of_seats": 650,
+                "active_space": "Yes",
+                "geo_point_2d": {
+                    "lon": -123.1382118,
+                    "lat": 49.261346
+                }
+            }
+        },
+        {
+            "id": "4",
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -123.06845,
+                    49.255421
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "year": "2017",
+                "program_name": "Croatian Cultural Centre",
+                "website": "www.croatiancentre.com",
+                "type": "cultural-support",
+                "description": "Community Centre/Hall",
+                "address": "3250 Commercial Dr, Vancouver, BC, V5N 4E4",
+                "local_area": "Kensington-Cedar Cottage",
+                "opening_hours": "Tuesday-Sunday: 12 PM - 7 PM",
+                "square_feet": 16543,
+                "number_of_seats": null,
+                "active_space": "Yes",
+                "geo_point_2d": {
+                    "lon": -123.06845,
+                    "lat": 49.255421
+                }
+            }
+        },
+        {
+            "id": "5",
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -123.134283,
+                    49.270046
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "year": "2017",
+                "program_name": "Gallery of BC Ceramics",
+                "website": "http://www.bcpotters.com/Gallery/index.php",
+                "type": "cultural-support",
+                "description": "Museum/Gallery",
+                "address": "1359 Cartwright St, Vancouver, BC, V6H 3R7",
+                "local_area": "Fairview",
+                "absolutely_free": true,
+                "opening_hours": "Tuesday-Sunday: 12 PM - 7 PM",
+                "square_feet": 1505,
+                "number_of_seats": null,
+                "active_space": "Yes",
+                "geo_point_2d": {
+                    "lon": -123.134283,
+                    "lat": 49.270046
+                }
+            }
+        },
+        {
+            "id": "6",
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -123.1337018,
+                    49.2856642
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "year": "2017",
+                "program_name": "Gordon Neighbourhood house",
+                "website": "http://gordonhouse.org/",
+                "type": "cultural-support",
+                "description": "Community Centre/Hall",
+                "address": "1019 Broughton St, Vancouver, BC, V6G 2A7",
+                "local_area": "West End",
+                "absolutely_free": true,
+                "opening_hours": "Tuesday-Sunday: 12 PM - 7 PM",
+                "square_feet": null,
+                "number_of_seats": null,
+                "active_space": "Yes",
+                "geo_point_2d": {
+                    "lon": -123.1337018,
+                    "lat": 49.2856642
+                }
+            }
+        },
+        {
+            "id": "7",
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -123.249913,
+                    49.266025
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "year": "2017",
+                "program_name": "Hatch Art Gallery",
+                "website": "http://www.ams.ubc.ca/nest/arts-and-attractions/art-gallery/",
+                "type": "cultural-support",
+                "description": "Museum/Gallery",
+                "address": "6133 University Blvd, Vancouver, BC, V6T 1Z1",
+                "local_area": "UBC",
+                "absolutely_free": true,
+              "opening_hours": "Tuesday-Sunday: 12 PM - 7 PM",
+                "square_feet": 12500,
+                "number_of_seats": null,
+                "active_space": "Yes",
+                "geo_point_2d": {
+                    "lon": -123.249913,
+                    "lat": 49.266025
+                }
+            }
+        },
+        {
+            "id": "8",
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -123.117654,
+                    49.229111
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "year": "2017",
+                "program_name": "Peretz Centre for Secular Jewish Culture",
+                "website": "http://www.peretz-centre.org/index.html",
+                "type": "cultural-support",
+                "description": "Community Centre/Hall",
+                "address": "6184 Ash St, Vancouver, BC, V5Z 3G9",
+                "local_area": "Oakridge",
+                "opening_hours": "Tuesday-Sunday: 12 PM - 7 PM",
+                "absolutely_free": true,
+                "square_feet": 8000,
+                "number_of_seats": null,
+                "active_space": "Yes",
+                "geo_point_2d": {
+                    "lon": -123.117654,
+                    "lat": 49.229111
+                }
+            }
+        },
+        {
+            "id": "9",
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -123.130114,
+                    49.29119
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "year": "2017",
+                "program_name": "Performing Arts Lodge (PAL)",
+                "website": "http://www.palvancouver.org/?q=pal-theatre",
+                "type": "cultural-support",
+                "description": "Artist Housing",
+                "address": "581 Cardero St, Vancouver, BC, V6G 3L2",
+                "local_area": "Downtown",
+                "opening_hours": "Tuesday-Sunday: 12 PM - 7 PM",
+                "square_feet": null,
+                "number_of_seats": null,
+                "active_space": "Yes",
+                "geo_point_2d": {
+                    "lon": -123.130114,
+                    "lat": 49.29119
+                }
+            }
+        }
+    ]
+}

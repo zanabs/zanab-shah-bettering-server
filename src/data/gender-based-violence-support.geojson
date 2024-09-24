@@ -1,0 +1,160 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "1",
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -123.1247,
+                    49.2830
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "mapid": "GBV001",
+                "year_created": "2015",
+                "program_name": "Safe Haven Support Centre",
+                "type": "gbv",
+                "street_number": "125",
+                "street_direction": "W",
+                "street_name": "Pender",
+                "street_type": "St",
+                "merged_address": "125 W Pender St, Vancouver, BC",
+                "opening_hours": "Tuesday: 10am-4pm",
+                "description": "Safe Haven Support Centre offers a safe space and essential services for individuals impacted by gender-based violence. Open every Tuesday: from 10 AM to 4 PM, our compassionate team is ready to support you.",
+                "sliding_scale": true,
+                "translation_services_available": true,
+                "geo_local_area": "Downtown",
+                "geo_point_2d": {
+                    "lon": -123.1247,
+                    "lat": 49.2830
+                }
+            }
+        },
+        {
+            "id": "2",
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -123.1159,
+                    49.2805
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "mapid": "GBV002",
+                "year_created": "2018",
+                "program_name": "Women's Resilience Collective",
+                "type": "gbv",
+                "street_number": "231",
+                "street_direction": "E",
+                "street_name": "Hastings",
+                "street_type": "St",
+                "merged_address": "231 E Hastings St, Vancouver, BC",
+                "opening_hours": "Friday: 12pm-5pm",
+                "description": "The Women's Resilience Collective offers support and resources to survivors of gender-based violence. We operate on Friday:s from 12 PM to 5 PM, providing personalized care with translation services and sliding scale fees.",
+                "sliding_scale": true,
+                "translation_services_available": true,
+                "geo_local_area": "Downtown Eastside",
+                "geo_point_2d": {
+                    "lon": -123.1159,
+                    "lat": 49.2805
+                }
+            }
+        },
+        {
+            "id": "3",
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -123.1372,
+                    49.2750
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "mapid": "GBV003",
+                "year_created": "2010",
+                "program_name": "Pacific Gender Support Network",
+                "type": "gbv",
+                "street_number": "321",
+                "street_direction": "W",
+                "street_name": "Broadway",
+                "street_type": "St",
+                "merged_address": "321 W Broadway St, Vancouver, BC",
+                "opening_hours": "Thursday: 1pm-7pm",
+                "description": "Pacific Gender Support Network provides comprehensive care to individuals affected by gender-based violence. We are here every Thursday: from 1 PM to 7 PM, offering sliding scale services and translation support.",
+                "sliding_scale": true,
+                "translation_services_available": false,
+                "geo_local_area": "Mount Pleasant",
+                "geo_point_2d": {
+                    "lon": -123.1372,
+                    "lat": 49.2750
+                }
+            }
+        },
+        {
+            "id": "4",
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -123.1009,
+                    49.2631
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "mapid": "GBV004",
+                "year_created": "2020",
+                "program_name": "Empower Survivors Outreach",
+                "type": "gbv",
+                "street_number": "610",
+                "street_direction": "E",
+                "street_name": "12th",
+                "street_type": "Ave",
+                "merged_address": "610 E 12th Ave, Vancouver, BC",
+                "opening_hours": "Monday: 9am-2pm",
+                "description": "Empower Survivors Outreach offers holistic support for survivors of gender-based violence. Open every Monday: from 9 AM to 2 PM, we provide a sliding scale fee structure and translation services to ensure accessibility for all.",
+                "sliding_scale": true,
+                "translation_services_available": false,
+                "geo_local_area": "Mount Pleasant",
+                "geo_point_2d": {
+                    "lon": -123.1009,
+                    "lat": 49.2631
+                }
+            }
+        },
+        {
+            "id": "5",
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -123.1083,
+                    49.2689
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "mapid": "GBV005",
+                "year_created": "2013",
+                "program_name": "Healing Pathways Vancouver",
+                "type": "gbv",
+                "street_number": "500",
+                "street_direction": "W",
+                "street_name": "4th",
+                "street_type": "Ave",
+                "merged_address": "500 W 4th Ave, Vancouver, BC",
+                "opening_hours": "Wednesday: 11am-4pm",
+                "description": "Healing Pathways Vancouver is dedicated to supporting survivors of gender-based violence. Every Wednesday: from 11 AM to 4 PM, we offer a safe and welcoming environment with sliding scale services and translation options.",
+                "sliding_scale": true,
+                "translation_services_available": true,
+                "geo_local_area": "Fairview",
+                "geo_point_2d": {
+                    "lon": -123.1083,
+                    "lat": 49.2689
+                }
+            }
+        }
+    ]
+}

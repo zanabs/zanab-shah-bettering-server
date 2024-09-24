@@ -1,0 +1,51 @@
+[
+    {
+        "name": "Food & Nutrition",
+        "id": "food",
+        "description": "Free & low cost meal plans organized by diet, cultural specifications and populations served.",
+        "number_of_locations": 84
+
+    },
+    {
+        "name": "Shelter",
+        "id": "shelter",
+        "description": "Temporary and emergency shelter for vulnerable populations across YVR mainland.",
+        "number_of_locations": 32
+    },
+    {
+        "name": "Mental Health & Wellbeing",
+        "description": "Low-cost, free or sliding-scale service providers and organizations organized by cultural competency, languages spoken and other customizeable filters.",
+        "id": "mental-health",
+        "number_of_locations": 10
+    },
+    {
+        "name": "Low Cost Dentistry",
+        "description": "Dental providers in YVR providing low-cost or sliding-scale dentistry to community members in need",
+        "id": "dentistry",
+        "number_of_locations": 49
+    },
+
+    {
+        "name": "Cultural Centres & Peer Support",
+        "description": "Culturally-appropriate peer support offered by independent cultural centres in YVR.",
+        "id": "cultural-support",
+        "number_of_locations": 31
+
+    },
+
+    {
+        "name": "Gender-Based Violence Support",
+        "description": "Sliding scale or free services to support survivors of gender-based violence.",
+        "id": "gbv",
+        "number_of_locations": 19
+
+    },
+
+    {
+        "name": "Community Gardens",
+        "description": "Seasonal, indoor and outdoor community gardens available to all members of the public.",
+        "id": "gardens",
+        "number_of_locations": 124
+
+    }
+]

@@ -1,0 +1,298 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "1",
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -123.116226,
+                    49.282729
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "year": "2015",
+                "program_name": "Downtown Vancouver Mental Health Clinic",
+                "description": "Providing counseling and mental health services for individuals facing depression and anxiety.",
+                "type": "mental-health",
+                "primary_use": "Clinic",
+                "address": "123 W Pender St, Vancouver, BC",
+                "absolutely_free": true,
+                "local_area": "Downtown",
+                "ownership": "Non-Profit",
+                "opening_hours": "Tuesday-Sunday: 12 PM - 7 PM",
+                "number_of_therapists": 10,
+                "active_space": "Yes",
+                "geo_point_2d": {
+                    "lon": -123.116226,
+                    "lat": 49.282729
+                }
+            }
+        },
+        {
+            "id": "2",
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -123.119823,
+                    49.277927
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "year": "2018",
+                "program_name": "Pacific Mental Health Support Center",
+                "description": "Offering support groups and one-on-one therapy for those with PTSD and other trauma-related conditions.",
+                "type": "mental-health",
+                "primary_use": "Support Center",
+                "address": "456 W Georgia St, Vancouver, BC",
+                "absolutely_free": true,
+                "local_area": "Downtown",
+                "opening_hours": "Tuesday-Sunday: 12 PM - 7 PM",
+                "ownership": "Non-Profit",
+                "number_of_therapists": 8,
+                "active_space": "Yes",
+                "geo_point_2d": {
+                    "lon": -123.119823,
+                    "lat": 49.277927
+                }
+            }
+        },
+        {
+            "id": "3",
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -123.112509,
+                    49.281288
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "year": "2016",
+                "program_name": "West End Counseling and Wellness Center",
+                "description": "Community-driven mental wellness programs for families and youth, focusing on holistic care.",
+                "type": "mental-health",
+                "primary_use": "Community Center",
+                "address": "789 Burrard St, Vancouver, BC",
+                "absolutely_free": true,
+                "local_area": "West End",
+                "ownership": "Non-Profit",
+                "opening_hours": "Tuesday-Sunday: 12 PM - 7 PM",
+                "number_of_therapists": 12,
+                "active_space": "Yes",
+                "geo_point_2d": {
+                    "lon": -123.112509,
+                    "lat": 49.281288
+                }
+            }
+        },
+        {
+            "id": "4",
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -123.124015,
+                    49.277088
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "year": "2019",
+                "program_name": "Harbor Mental Health and Counseling Services",
+                "description": "Specialized in addiction recovery, offering individualized therapy and group sessions.",
+                "type": "mental-health",
+                "primary_use": "Counseling Center",
+                "absolutely_free": true,
+                "address": "1010 Hornby St, Vancouver, BC",
+                "local_area": "Downtown",
+                "translation_services_available": true,
+                "ownership": "Private",
+                "opening_hours": "Tuesday-Sunday: 12 PM - 7 PM",
+                "number_of_therapists": 6,
+                "active_space": "Yes",
+                "geo_point_2d": {
+                    "lon": -123.124015,
+                    "lat": 49.277088
+                }
+            }
+        },
+        {
+            "id": "5",
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -123.121789,
+                    49.276456
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "year": "2020",
+                "program_name": "Mind Matters Therapy",
+                "description": "Providing cognitive behavioral therapy for anxiety, depression, and phobias.",
+                "type": "mental-health",
+                "primary_use": "Private Practice",
+                "absolutely_free": true,
+                "address": "1120 Robson St, Vancouver, BC",
+                "local_area": "Downtown",
+                "ownership": "Private",
+                "opening_hours": "Tuesday-Sunday: 12 PM - 7 PM",
+                "number_of_therapists": 4,
+                "active_space": "Yes",
+                "geo_point_2d": {
+                    "lon": -123.121789,
+                    "lat": 49.276456
+                }
+            }
+        },
+        {
+            "id": "6",
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -123.128432,
+                    49.274231
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "year": "2017",
+                "program_name": "Life Balance Wellness Group",
+                "description": "Offers therapy focused on work-life balance, stress management, and overall wellness.",
+                "type": "mental-health",
+                "primary_use": "Group Practice",
+                "address": "998 Seymour St, Vancouver, BC",
+                "local_area": "Yaletown",
+                "opening_hours": "Tuesday-Sunday: 12 PM - 7 PM",
+                "ownership": "Private",
+                "number_of_therapists": 5,
+                "sliding_scale": true,
+                "active_space": "Yes",
+                "geo_point_2d": {
+                    "lon": -123.128432,
+                    "lat": 49.274231
+                }
+            }
+        },
+        {
+            "id": "7",
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -123.114856,
+                    49.278529
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "year": "2021",
+                "program_name": "Safe Haven Youth Mental Health Services",
+                "description": "Focused on providing mental health care for at-risk youth, including therapy and life skills programs.",
+                "type": "mental-health",
+                "primary_use": "Youth Center",
+                "address": "650 Nelson St, Vancouver, BC",
+                "local_area": "Downtown",
+                "opening_hours": "Tuesday-Sunday: 12 PM - 7 PM",
+                "ownership": "Non-Profit",
+                "number_of_therapists": 7,
+                "sliding_scale": true,
+                "active_space": "Yes",
+                "geo_point_2d": {
+                    "lon": -123.114856,
+                    "lat": 49.278529
+                }
+            }
+        },
+        {
+            "id": "8",
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -123.122915,
+                    49.275007
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "year": "2014",
+                "program_name": "Inner Peace Therapy and Counseling",
+                "description": "Specializes in mindfulness-based therapy and meditation practices for stress and anxiety.",
+                "type": "mental-health",
+                "primary_use": "Private Practice",
+                "address": "810 Burrard St, Vancouver, BC",
+                "local_area": "Downtown",
+                "opening_hours": "Tuesday-Sunday: 12 PM - 7 PM",
+                "ownership": "Private",
+                "number_of_therapists": 3,
+                "sliding_scale": true,
+                "active_space": "Yes",
+                "geo_point_2d": {
+                    "lon": -123.122915,
+                    "lat": 49.275007
+                }
+            }
+        },
+        {
+            "id": "9",
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -123.120001,
+                    49.272145
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "year": "2018",
+                "program_name": "Compassionate Minds Counseling",
+                "description": "Provides therapy for individuals and couples dealing with relationship challenges and emotional distress.",
+                "type": "mental-health",
+                "primary_use": "Counseling Center",
+                "address": "901 W Georgia St, Vancouver, BC",
+                "local_area": "Downtown",
+                "opening_hours": "Tuesday-Sunday: 12 PM - 7 PM",
+                "ownership": "Private",
+                "translation_services_available": true,
+                "number_of_therapists": 4,
+                "sliding_scale": true,
+                "active_space": "Yes",
+                "geo_point_2d": {
+                    "lon": -123.120001,
+                    "lat": 49.272145
+                }
+            }
+        },
+        {
+            "id": "10",
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -123.125783,
+                    49.277982
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "year": "2022",
+                "program_name": "New Horizons Mental Health Clinic",
+                "description": "A modern facility offering cutting-edge therapy and psychiatric services for mental health disorders.",
+                "type": "mental-health",
+                "primary_use": "Clinic",
+                "translation_services_available": true,
+                "address": "555 W Pender St, Vancouver, BC",
+                "local_area": "Downtown",
+                "opening_hours": "Tuesday-Sunday: 12 PM - 7 PM",
+                "ownership": "Private",
+                "number_of_therapists": 8,
+                "active_space": "Yes",
+                "sliding_scale": true,
+                "geo_point_2d": {
+                    "lon": -123.125783,
+                    "lat": 49.277982
+                }
+            }
+        }
+    ]
+}

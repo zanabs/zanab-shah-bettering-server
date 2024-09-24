@@ -1,0 +1,275 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "1",
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -123.0788387,
+                    49.2571193
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "mapid": "FA002",
+                "year_created": "2014",
+                "program_name": "15th Avenue Coop",
+                "street_number": "1255",
+                "street_direction": "E",
+                "description": "A vibrant cooperative garden with seasonal vegetables and community plots.",
+                "street_name": "15th",
+                "street_type": "Av",
+                "merged_address": "1255 E 15th Av, Vancouver, BC",
+                "number_of_plots": 8,
+                "number_of_food_trees": null,
+                "type": "gardens",
+                "food_tree_varieties": null,
+                "other_food_assets": null,
+                "opening_hours": "Monday-Friday: 8 AM -  11PM",
+                "jurisdiction": "Private",
+                "steward_or_managing_organization": null,
+                "public_e_mail": null,
+                "website": null,
+                "geo_local_area": "Mount Pleasant",
+                "geo_point_2d": {
+                    "lon": -123.0788387,
+                    "lat": 49.2571193
+                }
+            }
+        },
+        {
+            "id": "2",
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -123.1276645,
+                    49.2567482
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "mapid": "FA003",
+                "year_created": "2008",
+                "program_name": "16 Oaks",
+                "street_number": "1018",
+                "description": "A peaceful oasis offering a variety of plots for growing fruits and vegetables.",
+                "street_direction": "W",
+                "street_name": "16th",
+                "street_type": "Av",
+                "merged_address": "1018 W 16th Av, Vancouver, BC",
+                "number_of_plots": 55,
+                "number_of_food_trees": null,
+                "type": "gardens",
+                "food_tree_varieties": null,
+                "other_food_assets": null,
+                "opening_hours": "Monday-Friday: 8 AM -  11PM",
+                "jurisdiction": "Private",
+                "steward_or_managing_organization": null,
+                "public_e_mail": "oak.16th.garden@gmail.com",
+                "website": null,
+                "geo_local_area": "Shaughnessy",
+                "geo_point_2d": {
+                    "lon": -123.1276645,
+                    "lat": 49.2567482
+                }
+            }
+        },
+        {
+            "id": "3",
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -123.1505481,
+                    49.2209834
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "mapid": "FA007",
+                "year_created": "1942",
+                "program_name": "East Boulevard Allotment Plots",
+                "street_number": "7176",
+                "street_direction": "E",
+                "description": "One of the oldest allotment gardens, known for its rich community heritage.",
+                "street_name": null,
+                "street_type": "Boulevard",
+                "merged_address": "7176 E  Boulevard, Vancouver, BC",
+                "number_of_plots": 71,
+                "number_of_food_trees": null,
+                "type": "gardens",
+                "public": true,
+                "private": false, 
+                "food_tree_varieties": null,
+                "other_food_assets": null,
+                "opening_hours": "Monday-Friday: 8 AM -  11PM",
+                "jurisdiction": "City",
+                "steward_or_managing_organization": "City of Vancouver",
+                "public_e_mail": "communitygardens@vancouver.ca",
+                "website": null,
+                "geo_local_area": "Kerrisdale",
+                "geo_point_2d": {
+                    "lon": -123.1505481,
+                    "lat": 49.2209834
+                }
+            }
+        },
+        {
+            "id": "4",
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -123.0871212,
+                    49.2810913
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "mapid": "FA009",
+                "year_created": "2010",
+                "program_name": "Atira Community Garden",
+                "street_number": "400",
+                "street_direction": null,
+                "description": "A community-driven garden supported by Atira Community Resources for local families.",
+                "street_name": "Hawks",
+                "street_type": "Av",
+                "merged_address": "400 Hawks Av, Vancouver, BC",
+                "number_of_plots": 15,
+                "number_of_food_trees": null,
+                "type": "gardens",
+                "food_tree_varieties": null,
+                "other_food_assets": null,
+                "opening_hours": "Monday-Friday: 8 AM -  11PM",
+                "jurisdiction": "Private",
+                "public": true,
+                "private": false, 
+                "steward_or_managing_organization": "Atira Community Resources",
+                "public_e_mail": null,
+                "website": "http://www.atira.bc.ca/community-garden-kitchens",
+                "geo_local_area": "Strathcona",
+                "geo_point_2d": {
+                    "lon": -123.0871212,
+                    "lat": 49.2810913
+                }
+            }
+        },
+        {
+            "id": "5",
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -123.032578,
+                    49.266474
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "mapid": "FA011",
+                "year_created": "2015",
+                "program_name": "BC Seniors Living Assoc. Garden",
+                "street_number": "3355",
+                "street_direction": "E",
+                "description": "A thriving garden maintained by seniors for a sustainable and healthy community.",
+                "street_name": "5 th",
+                "street_type": "Av",
+                "merged_address": "3355 E 5 th Av, Vancouver, BC",
+                "number_of_plots": 11,
+                "number_of_food_trees": null,
+                "type": "gardens",
+                "food_tree_varieties": null,
+                "other_food_assets": null,
+                "opening_hours": "Monday-Friday: 8 AM -  11PM",
+                "public": false,
+                "private": true, 
+                "steward_or_managing_organization": "BC Seniors Living Assoc. Beulah Homes Society",
+                "public_e_mail": null,
+                "website": null,
+                "geo_local_area": "Hastings-Sunrise",
+                "geo_point_2d": {
+                    "lon": -123.032578,
+                    "lat": 49.266474
+                }
+            }
+        },
+        {
+            "id": "6",
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -123.171486,
+                    49.2565789
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "mapid": "FA017",
+                "year_created": null,
+                "program_name": "Carnarvon Park",
+                "street_number": "2995",
+                "street_direction": "W",
+                "description": "A park garden featuring a variety of apple trees and open spaces for visitors.",
+                "street_name": "19th",
+                "street_type": "Av",
+                "merged_address": "2995 W 19th Av, Vancouver, BC",
+                "number_of_plots": 0,
+                "number_of_food_trees": "15",
+                "type": "gardens",
+                "public": true,
+                "private": false, 
+                "food_tree_varieties": "Apple",
+                "other_food_assets": null,
+                "opening_hours": "Monday-Friday: 8 AM -  11PM",
+                "jurisdiction": true,
+                "steward_or_managing_organization": null,
+                "public_e_mail": null,
+                "website": null,
+                "geo_local_area": "Arbutus Ridge",
+                "geo_point_2d": {
+                    "lon": -123.171486,
+                    "lat": 49.2565789
+                }
+            }
+        },
+        {
+            "id": "7",
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -123.0308947,
+                    49.2732079
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "mapid": "FA024",
+                "year_created": null,
+                "program_name": "Charles Park",
+                "description": "A small but charming park garden with a single crabapple tree.",
+                "street_number": "3400",
+                "street_direction": null,
+                "street_name": "Charles",
+                "street_type": "St",
+                "merged_address": "3400 Charles St, Vancouver, BC",
+                "number_of_plots": 0,
+                "number_of_food_trees": "1",
+                "type": "gardens",
+                "public": true,
+                "private": false, 
+                "food_tree_varieties": "Crabapple",
+                "absolutely_free": true,
+                "other_food_assets": null,
+                "opening_hours": "Monday-Friday: 8 AM -  11PM",
+                "jurisdiction": true,
+                "steward_or_managing_organization": null,
+                
+                "public_e_mail": null,
+                "website": null,
+                "geo_local_area": "Hastings-Sunrise",
+                "geo_point_2d": {
+                    "lon": -123.0308947,
+                    "lat": 49.2732079
+                }
+            }
+        }
+    ]
+}

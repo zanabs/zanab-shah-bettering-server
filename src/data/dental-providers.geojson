@@ -1,0 +1,154 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "1",
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -123.1195,
+                    49.2825
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "mapid": "D001",
+                "year_created": "2010",
+                "program_name": "Dr. Sarah Chen Dentistry",
+                "type": "dentistry",
+                "street_number": "101",
+                "absolutely_free": true,
+                "street_direction": "W",
+                "street_name": "Georgia",
+                "street_type": "St",
+                "merged_address": "101 W Georgia St, Vancouver, BC",
+                "opening_hours": "Tuesday: 2pm-5pm",
+                "description": "Dr. Sarah Chen offers low-cost dental care to community members every Tuesday from 2 PM to 5 PM. Her office is committed to providing accessible and quality dental services for those in need of affordable care.",
+                "geo_local_area": "Downtown",
+                "geo_point_2d": {
+                    "lon": -123.1195,
+                    "lat": 49.2825
+                }
+            }
+        },
+        {
+            "id": "2",
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -123.1156,
+                    49.2812
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "mapid": "D002",
+                "year_created": "2015",
+                "program_name": "Vancouver Dental Collective",
+                "type": "dentistry",
+                "street_number": "202",
+                "street_direction": "E",
+                "street_name": "Hastings",
+               "absolutely_free": true,
+                "street_type": "St",
+                "merged_address": "202 E Hastings St, Vancouver, BC",
+                "opening_hours": "Friday: 3pm-9pm",
+                "description": "Vancouver Dental Collective offers low-cost dental services to the downtown community. They are open every Friday from 3 PM to 9 PM, dedicated to helping individuals and families who require affordable dental care.",
+                "geo_local_area": "Downtown Eastside",
+                "geo_point_2d": {
+                    "lon": -123.1156,
+                    "lat": 49.2812
+                }
+            }
+        },
+        {
+            "id": "3",
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -123.1241,
+                    49.2765
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "mapid": "D003",
+                "year_created": "2012",
+                "program_name": "Dr. Michelle Tran Dental Clinic",
+                "type": "dentistry",
+                "street_number": "301",
+                "street_direction": "W",
+                "street_name": "Pender",
+                "street_type": "St",
+                "merged_address": "301 W Pender St, Vancouver, BC",
+                "opening_hours": "Saturday: 5pm-6pm",
+                "description": "Dr. Michelle Tran's dental clinic provides accessible dental care every Saturday from 5 PM to 6 PM. The clinic welcomes community members who need affordable dental solutions in a compassionate environment.",
+                "geo_local_area": "Downtown",
+                "geo_point_2d": {
+                    "lon": -123.1241,
+                    "lat": 49.2765
+                }
+            }
+        },
+        {
+            "id": "4",
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -123.1137,
+                    49.2783
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "mapid": "D004",
+                "year_created": "2018",
+                "program_name": "Downtown Smiles Collective",
+                "type": "dentistry",
+                "street_number": "401",
+                "street_direction": "W",
+                "street_name": "Georgia",
+                "street_type": "St",
+                "merged_address": "401 W Georgia St, Vancouver, BC",
+                "opening_hours": "Friday: 3pm-9pm",
+                "description": "The Downtown Smiles Collective offers low-cost dental services to those in need every Friday from 3 PM to 9 PM. Their goal is to ensure that everyone in the community has access to affordable, quality dental care.",
+                "geo_local_area": "Downtown",
+                "sliding_scale": true,
+                "geo_point_2d": {
+                    "lon": -123.1137,
+                    "lat": 49.2783
+                }
+            }
+        },
+        {
+            "id": "5",
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -123.1231,
+                    49.2806
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "mapid": "D005",
+                "year_created": "2020",
+                "program_name": "Harbour Centre Dental Office",
+                "type": "dentistry",
+                "street_number": "555",
+                "street_direction": "W",
+                "street_name": "Hastings",
+                "sliding_scale": true,
+                "street_type": "St",
+                "merged_address": "555 W Hastings St, Vancouver, BC",
+                "opening_hours": "Tuesday: 2pm-5pm",
+                "description": "Harbour Centre Dental Office provides low-cost dental services to the community every Tuesday from 2 PM to 5 PM. The clinic strives to offer a welcoming and affordable experience for all patients.",
+                "geo_local_area": "Downtown",
+                "geo_point_2d": {
+                    "lon": -123.1231,
+                    "lat": 49.2806
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,262 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "id": 1,
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            -123.1147756731615,
+            49.27769337237721
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "type": "shelter",
+          "program_name": "Catholic Charities Men's Hostel",
+          "category": "Men",
+          "phone": "604-443-3292",
+          "meals": "no",
+          "pets": "no",
+          "carts": "no",
+          "geo_local_area": "Downtown",
+          "geo_point_2d": {
+            "lon": -123.1147756731615,
+            "lat": 49.27769337237721
+          },
+          "opening_hours": "Monday-Friday: 8 AM -  11PM",
+          "serves_all_genders": false,
+          "men_only": true,
+          "women_only": false,
+          "food_available": true,
+          "families_welcome": true,
+          "absolutely_free": true
+        }
+      },
+      {
+        "id": 2,
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            -123.10586046207774,
+            49.262338305195684
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "type": "shelter",
+          "program_name": "Tenth Avenue Church",
+          "category": "Adults (all genders)",
+          "phone": "604-876-2181",
+          "meals": "yes",
+          "pets": "no",
+          "carts": "no",
+          "geo_local_area": "Mount Pleasant",
+          "geo_point_2d": {
+            "lon": -123.10586046207774,
+            "lat": 49.262338305195684
+          },
+          "opening_hours": "Monday-Saturday: 9 AM - 11 PM",
+          "serves_all_genders": false,
+          "men_only": false,
+          "women_only": true,
+          "food_available": true,
+          "families_welcome": true,
+          "absolutely_free": true
+        }
+      },
+      {
+        "id": 3,
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            -123.11236726193974,
+            49.26689088504469
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "type": "shelter",
+          "program_name": "Yukon Shelter",
+          "category": "Adults (all genders)",
+          "phone": "604-264-1680",
+          "meals": "no",
+          "pets": "yes",
+          "carts": "no",
+          "geo_local_area": "Mount Pleasant",
+          "geo_point_2d": {
+            "lon": -123.11236726193974,
+            "lat": 49.26689088504469
+          },
+          "opening_hours": "Tuesday-Sunday: 8 AM - 8 PM",
+          "serves_all_genders": true,
+          "men_only": false,
+          "women_only": false,
+          "food_available": false,
+          "families_welcome": true,
+          "absolutely_free": true
+        }
+      },
+      {
+        "id": 4,
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            -123.10109474719326,
+            49.282056211986955
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "type": "shelter",
+          "program_name": "The Haven",
+          "category": "Men",
+          "phone": "604-646-6800",
+          "meals": "no",
+          "pets": "no",
+          "carts": "no",
+          "geo_local_area": "Downtown",
+          "geo_point_2d": {
+            "lon": -123.10109474719326,
+            "lat": 49.282056211986955
+          },
+          "opening_hours": "Monday-Friday: 7 AM - 7 PM",
+          "serves_all_genders": false,
+          "men_only": true,
+          "women_only": false,
+          "food_available": false,
+          "families_welcome": false,
+          "absolutely_free": true
+        }
+      },
+      {
+        "id": 5,
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            -123.11293968534518,
+            49.28245838143064
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "type": "shelter",
+          "program_name": "Belkin House",
+          "category": "Adults (all genders)",
+          "phone": "604-681-3405",
+          "meals": "no",
+          "pets": "no",
+          "carts": "no",
+          "geo_local_area": "Downtown",
+          "geo_point_2d": {
+            "lon": -123.11293968534518,
+            "lat": 49.28245838143064
+          },
+          "opening_hours": "Monday-Sunday: 6 AM - 9 PM",
+          "serves_all_genders": true,
+          "men_only": false,
+          "women_only": false,
+          "food_available": false,
+          "families_welcome": true,
+          "absolutely_free": true
+        }
+      },
+      {
+        "id": 6,
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            -123.06735635798717,
+            49.26974745114546
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "type": "shelter",
+          "program_name": "Grandview Calvary Baptist Church",
+          "category": "Adults (all genders)",
+          "phone": "604-255-1411",
+          "meals": "yes",
+          "pets": "no",
+          "carts": "no",
+          "geo_local_area": "Grandview-Woodland",
+          "geo_point_2d": {
+            "lon": -123.06735635798717,
+            "lat": 49.26974745114546
+          },
+          "opening_hours": "Monday-Friday: 8 AM - 10 PM",
+          "serves_all_genders": true,
+          "men_only": false,
+          "women_only": false,
+          "food_available": true,
+          "families_welcome": true,
+          "absolutely_free": true
+        }
+      },
+      {
+        "id": 7,
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            -123.10109474719326,
+            49.282056211986955
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "type": "shelter",
+          "program_name": "Anchor of Hope",
+          "category": "Adults (all genders)",
+          "phone": "604-646-6899",
+          "meals": "yes",
+          "pets": "no",
+          "carts": "no",
+          "geo_local_area": "Downtown",
+          "geo_point_2d": {
+            "lon": -123.10109474719326,
+            "lat": 49.282056211986955
+          },
+          "opening_hours": "Wednesday-Sunday: 10 AM - 8 PM",
+          "serves_all_genders": true,
+          "men_only": false,
+          "women_only": false,
+          "food_available": true,
+          "families_welcome": true,
+          "absolutely_free": true
+        }
+      },
+      {
+        "id": 8,
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            -123.09620765787055,
+            49.28374408771319
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "type": "shelter",
+          "program_name": "Lookout Downtown",
+          "category": "Adults (all genders)",
+          "phone": "604-681-9126",
+          "meals": "no",
+          "pets": "yes",
+          "carts": "no",
+          "geo_local_area": "Strathcona",
+          "geo_point_2d": {
+            "lon": -123.09620765787055,
+            "lat": 49.28374408771319
+          },
+          "opening_hours": "Monday-Sunday: 24 Hours",
+          "serves_all_genders": true,
+          "men_only": false,
+          "women_only": false,
+          "food_available": false,
+          "families_welcome": true,
+          "absolutely_free": true
+        }
+      }
+    ]
+  }
+  
