@@ -1,17 +1,23 @@
-
 import express from 'express';
 import cors from 'cors';
-import dotenv  from 'dotenv';
-
+import dotenv from 'dotenv';
+import mapRoutes from './src/routes/mapRoutes.js'; 
 
 dotenv.config();
+
 const app = express();
-app.use(cors());
+
+app.use(cors({
+  origin: process.env.CORS_ORIGIN | 'http://localhost:5173' 
+}));
+app.use(express.json());
+
+
+app.use('/', mapRoutes);
+
 const port = process.env.PORT || 3000;
-app.get('/', (req, res) => {
-  res.send('Hello World! Meet Bettering :)))');
-});
 app.listen(port, () => {
-  console.log(`Server up and running on http://localhost:${port}`);
+  console.log(`Server running at http://localhost:${port}`);
 });
+
 
