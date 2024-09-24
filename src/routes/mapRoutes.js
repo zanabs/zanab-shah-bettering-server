@@ -11,7 +11,6 @@ const router = express.Router();
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-
 const categoryPath = path.join(__dirname, '../data/categories.json');
 const foodPath = path.join(__dirname, '../data/free-and-low-cost-food-programs.geojson')
 const shelterPath = path.join(__dirname, '../data/homeless-shelter-locations.geojson')
@@ -20,7 +19,6 @@ const culturePath = path.join(__dirname, '../data/cultural-spaces.geojson')
 const mentalHealthPath = path.join(__dirname, '../data/mental-health-providers.geojson')
 const dentalPath = path.join(__dirname, '../data/dental-providers.geojson')
 const gbvPath=path.join(__dirname, '../data/gender-based-violence-support.geojson')
-
 
 router.get('/categories', async (req, res) => {
   try {
