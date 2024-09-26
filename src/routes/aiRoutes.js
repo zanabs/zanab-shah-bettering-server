@@ -1,23 +1,9 @@
+import dotenv from 'dotenv';
 import OpenAI from "openai";
 import express from 'express';
-import path from 'path';
-import fs from 'fs/promises'; 
-import { fileURLToPath } from 'url';
 
+dotenv.config();
 const router = express.Router();
-
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
-
-const categoryPath = path.join(__dirname, '../data/categories.json');
-const foodPath = path.join(__dirname, '../data/free-and-low-cost-food-programs.geojson')
-const shelterPath = path.join(__dirname, '../data/homeless-shelter-locations.geojson')
-const gardenPath = path.join(__dirname, '../data/community-gardens-and-food-trees.geojson')
-const culturePath = path.join(__dirname, '../data/cultural-spaces.geojson')
-const mentalHealthPath = path.join(__dirname, '../data/mental-health-providers.geojson')
-const dentalPath = path.join(__dirname, '../data/dental-providers.geojson')
-const gbvPath=path.join(__dirname, '../data/gender-based-violence-support.geojson')
-
 const openai = new OpenAI({apiKey: process.env.OPENAI_API_KEY});
 
 router.get('/start-thread', async (req, res) => {
@@ -47,15 +33,15 @@ router.post('/send-message', async (req, res) => {
   }
 });
 
-router.get('/run', async (req, res) => {
+router.post('/run', async (req, res) => {
   try {
     const { threadId } = req.body;
-    console.log(threadId);
+    console.log(req.body.threadId)
     let run = await openai.beta.threads.runs.createAndPoll(
       threadId,
       { 
-        assistant_id: 'asst_QSF3E29HDBMTVbeybOmEtGPs',
-        instructions: "The user has a premium account."
+        assistant_id: process.env.ASSISTANT_ID,
+        instructions: "You are an expert on social infrastructure support resources in Vancouver Canada. Use the data provided in the files to suggest a resource by it's name as well as why you are making the suggestion."
       }
     );
     console.log(JSON.stringify(run));
@@ -65,7 +51,22 @@ router.get('/run', async (req, res) => {
   }
 });
 
-router.get('/messages', async (req, res) => {
+router.post('/poll', async (req, res) => {
+  try {
+    const { threadId, runId } = req.body;
+    console.log(req.body.threadId)
+    let run = await openai.beta.threads.runs.poll(
+      threadId,
+      runId
+    );
+    console.log(JSON.stringify(run));
+    res.json(run);
+  } catch (err) {
+    res.status(500).send('There has been issue reading ai chat', err);
+  }
+});
+
+router.post('/messages', async (req, res) => {
   try {
     const { threadId, runStatus } = req.body;
     if (runStatus === 'completed') {
