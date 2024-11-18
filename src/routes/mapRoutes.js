@@ -19,7 +19,7 @@ const culturePath = path.join(__dirname, '../data/cultural-spaces.geojson')
 const mentalHealthPath = path.join(__dirname, '../data/mental-health-providers.geojson')
 const dentalPath = path.join(__dirname, '../data/dental-providers.geojson')
 const gbvPath=path.join(__dirname, '../data/gender-based-violence-support.geojson')
-const legalPath=path.join(__dirname, '..data/legal-providers.geojson')
+const legalPath=path.join(__dirname, '../data/legal-providers.geojson')
 
 router.get('/categories', async (req, res) => {
   try {
