@@ -1,3 +1,4 @@
+
 {
     "type": "FeatureCollection",
     "features": [
@@ -24,6 +25,8 @@
                 "opening_hours": "Tuesday: 10am-4pm",
                 "description": "Safe Haven Support Centre offers a safe space and essential services for individuals impacted by gender-based violence. Open every Tuesday: from 10 AM to 4 PM, our compassionate team is ready to support you.",
                 "sliding_scale": true,
+                "sanyas": true,
+                "trauma-informed":true,
                 "translation_services_available": true,
                 "geo_local_area": "Downtown",
                 "geo_point_2d": {
@@ -50,6 +53,8 @@
                 "street_number": "231",
                 "street_direction": "E",
                 "street_name": "Hastings",
+                "sanyas": true,
+                "trauma-informed":true,
                 "street_type": "St",
                 "merged_address": "231 E Hastings St, Vancouver, BC",
                 "opening_hours": "Friday: 12pm-5pm",
@@ -81,6 +86,8 @@
                 "street_number": "321",
                 "street_direction": "W",
                 "street_name": "Broadway",
+                "sanyas": true,
+                "trauma-informed":true,
                 "street_type": "St",
                 "merged_address": "321 W Broadway St, Vancouver, BC",
                 "opening_hours": "Thursday: 1pm-7pm",
@@ -112,6 +119,8 @@
                 "street_number": "610",
                 "street_direction": "E",
                 "street_name": "12th",
+                "sanyas": true,
+                "trauma-informed":true,
                 "street_type": "Ave",
                 "merged_address": "610 E 12th Ave, Vancouver, BC",
                 "opening_hours": "Monday: 9am-2pm",
@@ -145,7 +154,7 @@
                 "street_name": "4th",
                 "street_type": "Ave",
                 "merged_address": "500 W 4th Ave, Vancouver, BC",
-                "opening_hours": "Wednesday: 11am-4pm",
+                "opening_hours": "Wednesday: 11am-9pm",
                 "description": "Healing Pathways Vancouver is dedicated to supporting survivors of gender-based violence. Every Wednesday: from 11 AM to 4 PM, we offer a safe and welcoming environment with sliding scale services and translation options.",
                 "sliding_scale": true,
                 "translation_services_available": true,
@@ -157,4 +166,4 @@
             }
         }
     ]
-}
+  }
