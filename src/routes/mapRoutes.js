@@ -19,6 +19,7 @@ const culturePath = path.join(__dirname, '../data/cultural-spaces.geojson')
 const mentalHealthPath = path.join(__dirname, '../data/mental-health-providers.geojson')
 const dentalPath = path.join(__dirname, '../data/dental-providers.geojson')
 const gbvPath=path.join(__dirname, '../data/gender-based-violence-support.geojson')
+const legalPath=path.join(__dirname, '..data/legal-providers.geojson')
 
 router.get('/categories', async (req, res) => {
   try {
@@ -54,6 +55,8 @@ router.get('/resources', async (req, res) => {
       filePath = dentalPath;
     } else if (categoryId==='gbv') {
       filePath=gbvPath;
+    } else if (categoryId==='legal'){
+      filePath=legalPath;
     }
 
     try {
@@ -86,7 +89,10 @@ router.get('/resources', async (req, res) => {
     const data7 = await fs.readFile(gbvPath, 'utf8');
     const geoData7 = JSON.parse(data7).features;
 
-    res.json(geoData1.concat(geoData2).concat(geoData3).concat(geoData4).concat(geoData5).concat(geoData6).concat(geoData7));
+    const data8 = await fs.readFile(legalPath, 'utf8');
+    const geoData8 = JSON.parse(data8).features;
+
+    res.json(geoData1.concat(geoData2).concat(geoData3).concat(geoData4).concat(geoData5).concat(geoData6).concat(geoData7).concat(geoData8));
   }});
 
 

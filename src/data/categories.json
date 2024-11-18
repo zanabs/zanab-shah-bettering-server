@@ -46,6 +46,11 @@
         "description": "Seasonal, indoor and outdoor community gardens available to all members of the public.",
         "id": "gardens",
         "number_of_locations": 124
-
+    },
+    {
+        "name": "Legal",
+        "description": "Legal clinics, advocates and organizations.",
+        "id": "legal",
+        "number_of_locations":24
     }
 ]

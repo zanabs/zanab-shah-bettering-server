@@ -1,0 +1,221 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "1",
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -123.121291,
+                    49.283036
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "year": "2016",
+                "program_name": "Downtown Legal Advocates",
+                "description": "Providing free legal advice and advocacy for housing and tenant disputes.",
+                "type": "legal",
+                "primary_use": "Legal Clinic",
+                "address": "200 W Hastings St, Vancouver, BC",
+                "free_services_available": true,
+                "languages_spoken": ["English", "French", "Mandarin"],
+                "specializations": ["Housing Law", "Tenant Rights"],
+                "local_area": "Downtown",
+                "ownership": "Non-Profit",
+                "opening_hours": "Monday-Friday: 9 AM - 5 PM",
+                "number_of_advocates": 6,
+                "active_space": "Yes"
+            }
+        },
+        {
+            "id": "2",
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -123.116993,
+                    49.278391
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "year": "2018",
+                "program_name": "Pacific Family Legal Support Center",
+                "description": "Assisting clients with family law issues such as custody and child support.",
+                "type": "legal",
+                "primary_use": "Support Center",
+                "address": "400 Granville St, Vancouver, BC",
+                "free_services_available": true,
+                "languages_spoken": ["English", "Punjabi", "Tagalog"],
+                "specializations": ["Family Law", "Child Custody"],
+                "local_area": "Downtown",
+                "ownership": "Non-Profit",
+                "opening_hours": "Monday-Friday: 9 AM - 6 PM",
+                "number_of_advocates": 5,
+                "active_space": "Yes"
+            }
+        },
+        {
+            "id": "3",
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -123.123456,
+                    49.277654
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "year": "2020",
+                "program_name": "West End Legal Aid Society",
+                "description": "Offering legal aid for employment disputes and worker rights advocacy.",
+                "type": "legal",
+                "primary_use": "Community Center",
+                "address": "750 Thurlow St, Vancouver, BC",
+                "free_services_available": true,
+                "languages_spoken": ["English", "Spanish"],
+                "specializations": ["Employment Law", "Worker Rights"],
+                "local_area": "West End",
+                "ownership": "Non-Profit",
+                "opening_hours": "Monday-Friday: 10 AM - 4 PM",
+                "number_of_advocates": 8,
+                "active_space": "Yes"
+            }
+        },
+        {
+            "id": "4",
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -123.124998,
+                    49.276789
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "year": "2017",
+                "program_name": "Harbor Legal Services",
+                "description": "Specializing in immigration and refugee law, offering representation and advocacy.",
+                "type": "legal",
+                "primary_use": "Legal Clinic",
+                "address": "600 Hornby St, Vancouver, BC",
+                "free_services_available": true,
+                "languages_spoken": ["English", "Arabic", "Farsi", "French"],
+                "specializations": ["Immigration Law", "Refugee Law", "Tenant Rights"],
+                "local_area": "Downtown",
+                "ownership": "Private",
+                "opening_hours": "Monday-Friday: 9 AM - 5 PM",
+                "number_of_advocates": 7,
+                "active_space": "Yes"
+            }
+        },
+        {
+            "id": "5",
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -123.122789,
+                    49.274901
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "year": "2021",
+                "program_name": "Mindful Legal Advocacy",
+                "description": "Providing mediation and conflict resolution services for civil disputes.",
+                "type": "legal",
+                "primary_use": "Private Practice",
+                "address": "1120 Robson St, Vancouver, BC",
+                "free_services_available": false,
+                "languages_spoken": ["English", "French"],
+                "specializations": ["Mediation", "Conflict Resolution", "Tenant Rights"],
+                "local_area": "Downtown",
+                "ownership": "Private",
+                "opening_hours": "Monday-Friday: 9 AM - 6 PM",
+                "number_of_advocates": 3,
+                "active_space": "Yes"
+            }
+        },
+        {
+            "id": "6",
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -123.115432,
+                    49.273012
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "year": "2019",
+                "program_name": "Life Balance Legal Group",
+                "description": "Focused on estate planning and elder law, ensuring clients' rights are protected.",
+                "type": "legal",
+                "primary_use": "Group Practice",
+                "address": "998 Seymour St, Vancouver, BC",
+                "free_services_available": false,
+                "languages_spoken": ["English", "Cantonese", "French"],
+                "specializations": ["Elder Law", "Estate Planning", "Tenant Rights"],
+                "local_area": "Yaletown",
+                "ownership": "Private",
+                "opening_hours": "Monday-Friday: 9 AM - 5 PM",
+                "number_of_advocates": 4,
+                "active_space": "Yes"
+            }
+        },
+        {
+            "id": "7",
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -123.125701,
+                    49.278932
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "year": "2022",
+                "program_name": "Safe Haven Legal Aid for Youth",
+                "description": "Advocating for youth in foster care, providing legal services for family reunification.",
+                "type": "legal",
+                "primary_use": "Youth Center",
+                "address": "650 Nelson St, Vancouver, BC",
+                "free_services_available": true,
+                "languages_spoken": ["English", "Korean", "Vietnamese", "French"],
+                "specializations": ["Youth Advocacy", "Family Reunification", "Tenant Rights"],
+                "local_area": "Downtown",
+                "ownership": "Non-Profit",
+                "opening_hours": "Monday-Friday: 9 AM - 5 PM",
+                "number_of_advocates": 5,
+                "active_space": "Yes"
+            }
+        },
+        {
+            "id": "8",
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    -123.128000,
+                    49.275500
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "year": "2015",
+                "program_name": "Inner Peace Legal Counsel",
+                "description": "Specializes in small business law and intellectual property rights.",
+                "type": "legal",
+                "primary_use": "Private Practice",
+                "address": "810 Burrard St, Vancouver, BC",
+                "free_services_available": false,
+                "languages_spoken": ["English", "Japanese", "French"],
+                "specializations": ["Business Law", "Intellectual Property", "Tenant Rights"],
+                "local_area": "Downtown",
+                "ownership": "Private",
+                "opening_hours": "Monday-Friday: 10 AM - 6 PM",
+                "number_of_advocates": 2,
+                "active_space": "Yes"
+            }
+        }
+    ]
+  }
