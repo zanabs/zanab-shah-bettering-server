@@ -119,6 +119,8 @@ router.get('/resources', async (req, res) => {
         filePath=dentalPath; 
       } else if (categoryId==='gbv') {
         filePath=gbvPath;
+      } else if (categoryId==='legal') {
+        filePath=legalPath;
       }
 
       try {
